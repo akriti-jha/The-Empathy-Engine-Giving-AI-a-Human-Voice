@@ -12,12 +12,6 @@ Instead of delivering monotone and lifeless audio, Empathy Engine analyzes the i
 
 ---
 
-## Demo UI
-
-![Empathy Engine Screenshot](screenshot.png)
-
----
-
 ## Features
 
 - **Real-time Emotion Detection:** Input text is instantly analyzed and classified as Positive, Negative, or Neutral using AI-powered sentiment analysis.
